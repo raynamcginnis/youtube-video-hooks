@@ -2,8 +2,9 @@
     padding: 25px 75px;
 }
 
-.ui.segment {
+.search-bar.ui.segment {
     background-color: #efefef;
+    border-radius: 0px;
 }
  .title {
     text-align: center;

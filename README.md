@@ -1,6 +1,6 @@
 # Overview
 
-This React.js video search application uses the Youtube API V3 to complete a video search based on the topic of choice, then displays the first five results while simultaniously loading the first video into the video player. From there, users can toggle between the five videos by clicking on the one they'd like to play or they can search for another topic.
+This React.js video search application uses the Youtube API V3 to complete a video search based on the topic of choice, then displays the first five results while simultaniously loading the first video into the video player. From there, users can toggle between the five videos by clicking on the one they'd like to play or they can search for another topic. It was designed using React hooks, including a custom hook to fetch video logic.
 
 ![React Video Search Application](./src/images/video-search.png) 
 
